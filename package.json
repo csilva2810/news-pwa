@@ -1,0 +1,16 @@
+{
+  "name": "news-pwa",
+  "version": "1.0.0",
+  "description": "PWA News application, developed to study PWA technologies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve ."
+  },
+  "keywords": ["pwa", "javascript", "news", "frontend"],
+  "author": "Carlos Silva <csilva2810@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^9.0.0"
+  }
+}
