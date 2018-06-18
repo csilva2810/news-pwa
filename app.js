@@ -1,5 +1,5 @@
 // get your news API KEY here: https://newsapi.org/
-const apiKey = '';
+const apiKey = 'a67b6d6d36bb4a6da4f4bc135afbb85d';
 const apiBaseURL = 'https://newsapi.org/v1';
 
 const main = document.querySelector('main');
